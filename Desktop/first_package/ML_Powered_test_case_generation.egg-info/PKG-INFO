@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ML-Powered-test-case-generation
+Version: 0.0.1
+Summary: Package for our Project
+Home-page: UNKNOWN
+Author: Vaibhav Kulkarni
+License: UNKNOWN
+Keywords: python,first package
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Software Engineers
+Classifier: Programming Language :: Python :: 3
+
+ML Powered test case generation
+
